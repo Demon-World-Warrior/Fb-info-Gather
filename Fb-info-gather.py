@@ -66,10 +66,10 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Demon-Tool
+    Author     Demon-World
     Name       FB info Gather
     Version    Full Version
-    Date       08/04/2020 
+    Date       17/01/2020 
     
 
 * if you find any errors or problems , please contact
